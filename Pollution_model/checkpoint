@@ -1,2 +1,2 @@
-model_checkpoint_path: "model"
-all_model_checkpoint_paths: "model"
+model_checkpoint_path: "not_weather"
+all_model_checkpoint_paths: "not_weather"
